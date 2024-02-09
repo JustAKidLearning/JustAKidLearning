@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustAKidLearning
-- 👀 I’m interested in ... web designing
-- 🌱 I’m currently learning ... html, css, and soon JavaScript, python, and JAVA
+- 👀 I’m interested in ... web designing and game developing.
+- 🌱 I’m currently learning ... html, css, and soon JavaScript, python, and JAVA.
 - 💞️ I’m looking to collaborate on ... someone that I can learn from.
 - 📫 How to reach me ... rjmasarque@gmail.com
 - 😄 Pronouns: ... he/him/his
